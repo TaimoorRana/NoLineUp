@@ -1,0 +1,12 @@
+.paymentOptionImg {
+    height: 75px;
+    width: 75px;
+    padding: 10px;
+}
+
+#paymentMethods {
+    font-size: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
