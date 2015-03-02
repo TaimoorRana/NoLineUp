@@ -13,10 +13,11 @@ function order (item){
 	this.orderPrice += item.price;
 }
 
-
+function doNothing () {}
 
 function addItem(name, price) {
-    alert(name + " has been added");
+    //alert(name + " has been added");
+     navigator.notification.alert(name + ' has been added', doNothing, 'Drink Order', 'OK');
     it = new item (name, price);
     items.push(it);
     order1 = new order (it);

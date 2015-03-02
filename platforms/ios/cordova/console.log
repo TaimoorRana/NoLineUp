@@ -1,0 +1,29 @@
+2015-03-01 20:02:54.280 NoLineUp[26002:396931] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Austin/Library/Developer/CoreSimulator/Devices/45B499CE-1426-4E59-9ACB-635EC487D1D6/data/Containers/Data/Application/DBFAC4A5-B690-4BDD-8C90-9619863EEF0F/Library/Cookies/Cookies.binarycookies
+2015-03-01 20:02:54.374 NoLineUp[26002:396931] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 20:02:54.375 NoLineUp[26002:396931] Multi-tasking -> Device: YES, App: YES
+2015-03-01 20:02:54.378 NoLineUp[26002:396931] Unlimited access to network resources
+2015-03-01 20:02:54.382 NoLineUp[26002:396931] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-01 20:02:55.145 NoLineUp[26002:396931] Resetting plugins due to page load.
+2015-03-01 20:02:55.310 NoLineUp[26002:396931] Finished load of: file:///Users/Austin/Library/Developer/CoreSimulator/Devices/45B499CE-1426-4E59-9ACB-635EC487D1D6/data/Containers/Bundle/Application/7D2DCCFE-2380-48D6-9473-1FE218BA9BAB/NoLineUp.app/www/index.html
+2015-03-01 20:03:50.001 NoLineUp[26988:399384] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/Austin/Library/Developer/CoreSimulator/Devices/45B499CE-1426-4E59-9ACB-635EC487D1D6/data/Containers/Data/Application/897BE2AC-7504-47F3-B70A-54931AB503B1/Library/Cookies/Cookies.binarycookies
+2015-03-01 20:03:50.133 NoLineUp[26988:399384] Apache Cordova native platform version 3.7.0 is starting.
+2015-03-01 20:03:50.134 NoLineUp[26988:399384] Multi-tasking -> Device: YES, App: YES
+2015-03-01 20:03:50.138 NoLineUp[26988:399384] Unlimited access to network resources
+2015-03-01 20:03:50.143 NoLineUp[26988:399384] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-03-01 20:03:50.412 NoLineUp[26988:399384] Resetting plugins due to page load.
+2015-03-01 20:03:50.613 NoLineUp[26988:399384] Finished load of: file:///Users/Austin/Library/Developer/CoreSimulator/Devices/45B499CE-1426-4E59-9ACB-635EC487D1D6/data/Containers/Bundle/Application/9366A2A0-4AF0-47BD-9597-C37E41EC3744/NoLineUp.app/www/index.html
+2015-03-01 20:04:05.051 NoLineUp[26988:399384] THREAD WARNING: ['Notification'] took '19.416016' ms. Plugin should use a background thread.
